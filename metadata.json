@@ -1,0 +1,6 @@
+{
+  "name": "AgentShield",
+  "description": "A runtime security and policy-enforcement layer for AI agents, intercepting and evaluating intended actions with deterministic policies, multi-factor risk scoring, secret protection, and human-in-the-loop approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
